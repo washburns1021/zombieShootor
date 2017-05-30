@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/bullet.jpg</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/player.png</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/font.spritefont</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/zmbie.png</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/wall.jpg</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/fart.mp3</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/hurt.pm3</File>
+    <File>c:/users/eahscs/documents/visual studio 2015/Projects/ZombieShootor/ZombieShootor/Content/pew.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
